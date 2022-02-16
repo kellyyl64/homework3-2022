@@ -167,7 +167,7 @@ img{
 }
 
 .text{
-  align-items: center;
+  align-self: center;
   max-height: 25vh;
   overflow: scroll;
 }
